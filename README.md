@@ -13,4 +13,9 @@
       --url string    uTorrent host default http://127.0.0.1:1000/gui/ (default "http://127.0.0.1:1000/gui/")
       --user string   utorrent web页面的密码
 ```
-推荐将程序放到utorrent所在目录，双击 "运行utorrent-block.bat" 开始运行。通编辑此文件完成参数修改。
+```
+下载如下两个文件，并放到utorrent的目录下：
+   utorrent-block.exe
+   运行utorrent-block.bat
+```
+推荐将程序放到utorrent所在目录，双击 "运行utorrent-block.bat" 。通编辑此文件完成参数修改。
